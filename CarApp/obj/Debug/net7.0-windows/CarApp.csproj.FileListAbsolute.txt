@@ -1,0 +1,15 @@
+C:\Users\skull\RiderProjects\CSharp\CarApp\bin\Debug\net7.0-windows\CarApp.exe
+C:\Users\skull\RiderProjects\CSharp\CarApp\bin\Debug\net7.0-windows\CarApp.deps.json
+C:\Users\skull\RiderProjects\CSharp\CarApp\bin\Debug\net7.0-windows\CarApp.runtimeconfig.json
+C:\Users\skull\RiderProjects\CSharp\CarApp\bin\Debug\net7.0-windows\CarApp.dll
+C:\Users\skull\RiderProjects\CSharp\CarApp\bin\Debug\net7.0-windows\CarApp.pdb
+C:\Users\skull\RiderProjects\CSharp\CarApp\obj\Debug\net7.0-windows\CarApp.csproj.AssemblyReference.cache
+C:\Users\skull\RiderProjects\CSharp\CarApp\obj\Debug\net7.0-windows\CarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skull\RiderProjects\CSharp\CarApp\obj\Debug\net7.0-windows\CarApp.AssemblyInfoInputs.cache
+C:\Users\skull\RiderProjects\CSharp\CarApp\obj\Debug\net7.0-windows\CarApp.AssemblyInfo.cs
+C:\Users\skull\RiderProjects\CSharp\CarApp\obj\Debug\net7.0-windows\CarApp.csproj.CoreCompileInputs.cache
+C:\Users\skull\RiderProjects\CSharp\CarApp\obj\Debug\net7.0-windows\CarApp.dll
+C:\Users\skull\RiderProjects\CSharp\CarApp\obj\Debug\net7.0-windows\refint\CarApp.dll
+C:\Users\skull\RiderProjects\CSharp\CarApp\obj\Debug\net7.0-windows\CarApp.pdb
+C:\Users\skull\RiderProjects\CSharp\CarApp\obj\Debug\net7.0-windows\CarApp.genruntimeconfig.cache
+C:\Users\skull\RiderProjects\CSharp\CarApp\obj\Debug\net7.0-windows\ref\CarApp.dll
