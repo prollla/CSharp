@@ -1,0 +1,15 @@
+C:\Users\skull\RiderProjects\CSharp\Task6_2\bin\Debug\net7.0-windows\Task6_2.exe
+C:\Users\skull\RiderProjects\CSharp\Task6_2\bin\Debug\net7.0-windows\Task6_2.deps.json
+C:\Users\skull\RiderProjects\CSharp\Task6_2\bin\Debug\net7.0-windows\Task6_2.runtimeconfig.json
+C:\Users\skull\RiderProjects\CSharp\Task6_2\bin\Debug\net7.0-windows\Task6_2.dll
+C:\Users\skull\RiderProjects\CSharp\Task6_2\bin\Debug\net7.0-windows\Task6_2.pdb
+C:\Users\skull\RiderProjects\CSharp\Task6_2\obj\Debug\net7.0-windows\Task6_2.csproj.AssemblyReference.cache
+C:\Users\skull\RiderProjects\CSharp\Task6_2\obj\Debug\net7.0-windows\Task6_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skull\RiderProjects\CSharp\Task6_2\obj\Debug\net7.0-windows\Task6_2.AssemblyInfoInputs.cache
+C:\Users\skull\RiderProjects\CSharp\Task6_2\obj\Debug\net7.0-windows\Task6_2.AssemblyInfo.cs
+C:\Users\skull\RiderProjects\CSharp\Task6_2\obj\Debug\net7.0-windows\Task6_2.csproj.CoreCompileInputs.cache
+C:\Users\skull\RiderProjects\CSharp\Task6_2\obj\Debug\net7.0-windows\Task6_2.dll
+C:\Users\skull\RiderProjects\CSharp\Task6_2\obj\Debug\net7.0-windows\refint\Task6_2.dll
+C:\Users\skull\RiderProjects\CSharp\Task6_2\obj\Debug\net7.0-windows\Task6_2.pdb
+C:\Users\skull\RiderProjects\CSharp\Task6_2\obj\Debug\net7.0-windows\Task6_2.genruntimeconfig.cache
+C:\Users\skull\RiderProjects\CSharp\Task6_2\obj\Debug\net7.0-windows\ref\Task6_2.dll
